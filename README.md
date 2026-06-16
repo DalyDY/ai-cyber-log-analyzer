@@ -25,7 +25,7 @@ The goal of this project is to build a simple AI powered intrusion detection too
 ## Project Structure
 
 ```text
-notebooks/
+data/
 src/
 requirements.txt
 README.md
