@@ -25,7 +25,6 @@ The goal of this project is to build a simple AI powered intrusion detection too
 ## Project Structure
 
 ```text
-data/
 notebooks/
 src/
 requirements.txt
